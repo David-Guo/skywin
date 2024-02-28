@@ -1,0 +1,22 @@
+{
+  "name": "skywin",
+  "version": "1.0.2",
+  "description": "A demo fo skywin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-Guo/skywin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/David-Guo/skywin#readme",
+  "dependencies": {
+    "inputprettyedit": "^1.0.0",
+    "skyiux": "^1.0.2",
+    "skymsgborad": "^1.0.1"
+  }
+}
